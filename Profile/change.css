@@ -1,0 +1,21 @@
+.cont1{
+	padding: 11px;
+	border: 4px solid blueviolet;
+	padding-bottom: 6px;
+}
+.cont2{
+	padding: 11px;
+	border: 4px solid hotpink;
+}
+.table2{
+	border: 3px solid orange;
+}
+.img1{
+	border-radius: 15px;
+}
+.table3{
+	border: 3px solid green;
+}
+.table4{
+	border: 3px solid purple;
+}
